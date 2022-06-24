@@ -1,0 +1,16 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-55e46a8dac3faaf48a3b95ef1222b982
+# Starting compiling UnityEngine.UI.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-365f8cdb3d4e9d24b8edb8f2e95c6ba7
+# Starting compiling Unity.Timeline.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9a762eb64e088c449b8fb470ead24894
+# Starting compiling Unity.TextMeshPro.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a3ea8dcef8313cf40ac906bc16df0501
+# Starting compiling Unity.Notifications.Android.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-203f3e7a9dd371b4e8f466c40a53ecb9
+# Starting compiling ARDK.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2813518b491e46f4c97b4794450fbebe
+# Starting compiling ARDK-Examples.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-942d780ea802c2145bdcb42815f16e2f
+# Starting compiling Assembly-CSharp.dll
+D:\Setups\2020.3.36f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-de7768147391eb3479a0413dae6a7830

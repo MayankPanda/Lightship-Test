@@ -1,0 +1,36 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "arcore"
+  }
+  digests {
+    sha256: "@gj\360\213:X\037\324\264\364\232\354t\262Q\023d+0\2066\0307\213\202\304r\003\343P\344"
+  }
+}
+library {
+  maven_library {
+    artifactId: "nar-dependencies"
+  }
+  digests {
+    sha256: "_\311\335h\317\020\242\254\235jX6\235\335\\H\331\v\r\006x/U\351ok\344\253\316\326\256#"
+  }
+}
+library {
+  digests {
+    sha256: "\217\0065\260\244C2R\317.\236\336\2112\321\265\2007\244\326\345\033C\244s\325\000\237.\tl\274"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 2
+}
